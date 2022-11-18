@@ -1,0 +1,276 @@
+Uri: https://cdn.000webhost.com/000webhost/000webhost-pages/corgi-lies-on-ground-looking-back.svg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\000webhost-pages\corgi-lies-on-ground-looking-back.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.000webhost.com/000webhost/000webhost-pages/corgi-lies-on-ground.svg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\000webhost-pages\corgi-lies-on-ground.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.000webhost.com/000webhost/000webhost-pages/corgi-spotlight.svg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\000webhost-pages\corgi-spotlight.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.000webhost.com/000webhost/logo/000webhost-logo-white.svg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\logo\000webhost-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.000webhost.com/000webhost/logo/favicon.ico
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\logo\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\000webhost\logo\footer-powered-by-000webhost-white2.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/921871297296871535/921884785331298364/878464f0cee16c2377c4872139cf6702-logotipo-de-arte-de-circulos-de-ojos.png
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\attachments\921871297296871535\921884785331298364\878464f0cee16c2377c4872139cf6702-logotipo-de-arte-de-circulos-de-ojos.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://varantgame.vercel.app/
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/about-game.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\about-game.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/attachments/931906032014352434/931913807733870622/VarantSetup.rar
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\attachments\931906032014352434\931913807733870622\VarantSetup.rar
+Content Type: application/vnd.rar
+
+Uri: https://varantgame.vercel.app/categories.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\categories.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/css/bootstrap.min.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/elegant-icons.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\elegant-icons.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/font-awesome.min.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/nice-select.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\nice-select.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/owl.carousel.min.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/owl.video.play.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/css/plyr.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\plyr.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/slicknav.min.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/css/style.css
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\css\style.css
+Content Type: text/css
+
+Uri: https://varantgame.vercel.app/fonts/ElegantIcons-2.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\ElegantIcons-2.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/ElegantIcons-3.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\ElegantIcons-3.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/ElegantIcons.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\ElegantIcons.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/ElegantIcons.woff
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://varantgame.vercel.app/fonts/ElegantIconsd41dd41d.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\ElegantIconsd41dd41d.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfont3e6e-23e6e.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfont3e6e-23e6e.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfont3e6e-33e6e.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfont3e6e-33e6e.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfont3e6e-43e6e.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfont3e6e-43e6e.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfont3e6e-53e6e.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfont3e6e-53e6e.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfont3e6e3e6e.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfont3e6e3e6e.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/fonts/fontawesome-webfontd41dd41d.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\fonts\fontawesome-webfontd41dd41d.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/img/anime/review-1.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-10.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-10.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-13.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-13.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-14.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-14.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-2.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-3.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-4.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-4.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-5.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-5.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-7.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-7.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-8.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-8.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/anime/review-9.jpg
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\anime\review-9.jpg
+Content Type: image/jpeg
+
+Uri: https://varantgame.vercel.app/img/logo.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\img\logo.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/index-3.html
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\index-3.html
+Content Type: text/html
+
+Uri: https://varantgame.vercel.app/js/bootstrap.min.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/jquery-3.3.1.min.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/jquery.nice-select.min.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/jquery.slicknav.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/main.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/mixitup.min.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/owl.carousel.min.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://varantgame.vercel.app/js/player.js
+File Name: C:\Users\Mateo\Desktop\varantgame.vercel.app\js\player.js
+Content Type: application/javascript
+
